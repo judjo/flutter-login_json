@@ -1,0 +1,4 @@
+com.example.flutter_json
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
